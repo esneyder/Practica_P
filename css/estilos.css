@@ -1,0 +1,26 @@
+body{
+	font-family: arial,helvetica;
+}
+header{
+	background-color: #00A893;
+	color:#fff;
+	padding: 1em 1em;
+
+}
+.centrar{
+	max-width: 400px;
+	margin:0 auto;
+	display: none;
+}
+legend{
+	text-align: center;
+	color:#0E5013;
+}
+.triangulito{
+	border-top: solid 15px #00A893;
+	border-right: solid 15px transparent;
+	border-left: solid 15px transparent;
+	height: 0;
+	width: 0; 
+	margin:0 auto;
+}
